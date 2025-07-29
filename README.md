@@ -58,7 +58,7 @@
 
 - 🔧 [**CI/CD Pipeline with GitHub Actions**](https://github.com/rodvel-inc/githubActions2):  
   Complete and well-documented pipeline 🚀  
-  📖 Check out the [DeepWiki](https://github.com/rodvel-inc/githubActions2/wiki) for an in-depth explanation.
+  📖 Check out the [DeepWiki](https://deepwiki.com/rodvel-inc/githubActions2/1-overview) for an in-depth explanation.
 
 ---
 
