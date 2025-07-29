@@ -1,4 +1,4 @@
-🌐 Available in: [🇬🇧 English](https://github.com/rodvel-inc) | [🇪🇸 Español](https://github.com/rodvel-inc/blob/main/README.es.md)
+🌐 Available in: [🇬🇧 English](https://github.com/rodvel-inc) | [🇪🇸 Español](https://github.com/rodvel-inc/README.es.md)
 <!-- Banner personal (puedes reemplazar con una imagen personalizada tuya) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,100:00A3E0&height=200&section=header&text=Andres%20Velandia%20|%20rodvel-inc&fontSize=36&fontAlign=50&fontColor=ffffff" alt="banner">
