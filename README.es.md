@@ -57,7 +57,7 @@
 
 - 🔧 [**Pipeline CI/CD con GitHub Actions**](https://github.com/rodvel-inc/githubActions2):  
   Pipeline completamente funcional y documentado 🚀  
-  📖 Consulta el [DeepWiki](https://github.com/rodvel-inc/githubActions2/wiki) para más detalles.
+  📖 Consulta el [DeepWiki](https://deepwiki.com/rodvel-inc/githubActions2/1-overview) para más detalles.
 
 ---
 
