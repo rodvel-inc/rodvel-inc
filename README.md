@@ -69,7 +69,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rodvel-inc&theme=github-dark-blue&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rodvel-inc&theme=github-dark-blue&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
